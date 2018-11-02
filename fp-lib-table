@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Open68000Relocator)(type KiCad)(uri ${KIPRJMOD}/Open68000Relocator.pretty)(options "")(descr Open68000Relocator))
+)
